@@ -1,5 +1,5 @@
 credentials.json
-tests/
+tests/test_whatsapp_sender.py
 __pycache__/
 *.pyc
 .env
